@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bandits - Pixel Art/Demo/Demo.unity
+  isLoaded: 1
+  isActive: 1
